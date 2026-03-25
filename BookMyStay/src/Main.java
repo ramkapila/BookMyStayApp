@@ -42,4 +42,16 @@ public class Main {
 
         // Program ends
     }
-}
+}/**
+ * uc2
+ *
+ * Use Case 2: Basic Room Types & Static Availability
+ *
+ * All classes are defined inside a single main class.
+ *
+ * Version: 2.1
+ *
+ * @author Ram
+ * @version 2.1
+ */
+
